@@ -5,6 +5,7 @@ The first task
 
 The second task
 [TASK-2] -- It is a React Application which fetched the data from an API and displays the User's ID,NAME,PROFILE-IMAGE,EMAIL.
+
 For task 2, after opening the file on code editor, run the following commands in the terminal
 npm start
 
